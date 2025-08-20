@@ -1,7 +1,10 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/cade-menezes-685126307/">Cade</a>! 
 
 <h2>👨‍💻 Software Development Projects:</h2>
+Horizontl *In Progress*
+PeopleLinkd *In Progress*
 
+<h2>📺 Java Development Projects:</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
