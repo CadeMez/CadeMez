@@ -1,8 +1,8 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/cade-menezes-685126307/">Cade</a>! 
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- <b></b>Horizontl *In Progress*<b>
-- <b></b>PeopleLinkd *In Progress*<b>
+- <b>Horizontl *In Progress*</b> <br />
+- <b>PeopleLinkd *In Progress*</b> <br />
 
 <h2>📺 Java Development Projects:</h2>
 
@@ -20,7 +20,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CadeMenezes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
