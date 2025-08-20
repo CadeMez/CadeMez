@@ -4,7 +4,7 @@
 - <b>Horizontl *In Progress*</b> <br />
 - <b>PeopleLinkd *In Progress*</b> <br />
 
-<h2>📺 Java Development Projects:</h2>
+<h2>📺 Development Projects:</h2>
 
 - <b>JProj - Flood Fill</b>
   - [FloodFill](https://github.com/CadeMez/FloodFill)
@@ -14,6 +14,8 @@
   - [SetWorks](https://github.com/CadeMez/SetWorks)
 - <b>JProj - Stacks and Inheritance</b>
   - [Stacks and Inheritance](https://github.com/CadeMez/Stacks-and-Inheritance)
+- <b>CogProj - Study of Cognition</b>
+  - [Cognitive Science Study](https://github.com/CadeMez/Cognitive-Science-Study)
 
 
 
