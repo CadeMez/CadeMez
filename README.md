@@ -1,10 +1,20 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/cade-menezes-685126307/">Cade</a>! 
 
 <h2>👨‍💻 Software Development Projects:</h2>
-Horizontl *In Progress*
-PeopleLinkd *In Progress*
+- <b></b>Horizontl *In Progress*<b>
+- <b></b>PeopleLinkd *In Progress*<b>
 
 <h2>📺 Java Development Projects:</h2>
+
+- <b>JProj - Flood Fill</b>
+  - [FloodFill](https://github.com/CadeMez/FloodFill)
+- <b>JProj - Recursive and Structural Computational</b>
+  - [RecursiveAndStructuralComputationalAbstraction](https://github.com/CadeMez/Recursive-and-Structural-Computational-Abstraction)
+- <b>JProj - Set Works</b>
+  - [SetWorks](https://github.com/CadeMez/SetWorks)
+- <b>JProj - Stacks and Inheritance</b>
+  - [Stacks and Inheritance](https://github.com/CadeMez/Stacks-and-Inheritance)
+
 
 
 <h2> 🤳 Connect with me:</h2>
